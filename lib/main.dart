@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
             fit: BoxFit.cover,
           ),
         ),
-        padding: EdgeInsets.only(top: 100.0, left: 20),
+        padding: EdgeInsets.only(top: 80.0, left: 20),
         child: SingleChildScrollView(
           child: Column(
             children: [
